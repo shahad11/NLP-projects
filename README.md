@@ -1,7 +1,7 @@
 # NLP-projects
 This repository is for implemented NLP side projects and practical study materials used
 
-1- How to create a embedding layer.
+1- How to create a word embedding layer ie converting words to vectors.
 
 2- LSTM RNN for Fake news classifier
 
