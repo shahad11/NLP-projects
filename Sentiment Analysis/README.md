@@ -9,3 +9,5 @@ In this Notebook you'll learn how to:
 1. Install Transformers
 2. Scrape reviews from Yelp and Calculate their Sentiment.
 3. Perform Sentiment Scoring using BERT and Python
+
+# Fine tuning a BERT model
