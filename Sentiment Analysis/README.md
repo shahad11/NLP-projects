@@ -11,4 +11,13 @@ In this Notebook you'll learn how to:
 2. Scrape reviews from Yelp and Calculate their Sentiment.
 3. Perform Sentiment Scoring using BERT and Python
 
-## Fine tuning a BERT model
+## 🔍 Mini Project: Fine-Tuning BERT-base-uncased on IMDB Dataset for Sentiment Analysis 🎬✨
+
+Data Preprocessing: Loaded IMDB dataset, cleaned reviews, and tokenized text using BERT tokenizer.
+Model Architecture: Utilized the pre-trained BERT-base-uncased model from Hugging Face for transfer learning.
+Training: Fine-tuned BERT for sentiment classification, optimizing for binary classification (positive/negative).
+Loss & Optimization: Used cross-entropy loss and AdamW optimizer with learning rate scheduling.
+Evaluation: Achieved high accuracy by validating the model on test data with precision, recall, and F1-score metrics.
+Deployment Ready: Model is scalable for real-world applications in NLP sentiment analysis.
+This mini-project demonstrates how to utilize BERT for sentiment analysis—perfect for hands-on learning! 🚀
+
