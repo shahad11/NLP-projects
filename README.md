@@ -5,6 +5,8 @@ This repository is for implemented NLP side projects and practical study materia
 2. LSTM RNN for Fake news classifier.
 3. Bidirectional LSTM RNN for fake news classifier.
 4. Sentiment Analysis with BERT Neural Network and Python
+5. Fine Tuning a BERT model for sentiment analysis.
+6. Fine tuning Google PEGASUS for Summerization.
 
 
 
