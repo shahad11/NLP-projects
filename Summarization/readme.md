@@ -1,3 +1,4 @@
+## fine-tuning-a-language-model-for-summarization
 The project focuses on fine-tuning the PEGASUS model for summarization using the SAMSum dataset, which consists of dialogue-based text. Key steps include:
 
 Preprocessing the dataset and tokenizing dialogues and summaries.
